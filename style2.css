@@ -1,0 +1,45 @@
+img{
+    height:200px;
+    width: 200px;
+}
+.div1 {
+    height:200px;
+    width: 500px;
+    border: 2px  solid rgb(250, 253, 208);
+    background-color: rgb(248, 243, 178); 
+    position: absolute 
+}
+.div2 {
+    height: 200px;
+    width: 200px;
+    border: 2px  solid rgb(248, 125, 125);
+    background-color: rgb(230, 75, 75);
+    position: absolute;
+    margin-left: 500px;
+    
+}
+.div3 {
+    height: 200px;
+    width: 200px;
+    border: 2px  solid rgb(78, 139, 62);
+    background-color: rgb(12, 116, 12); 
+    position: absolute ;
+    margin-top: 500px;
+}
+.div4 {
+    height: 200px;
+    width: 200px;
+    border : 2px  solid rgb(222, 233, 233);
+    background-color: rgb(218, 228, 228); 
+    position: absolute ;
+    margin-left: 200px ;
+    margin-top: 100px;
+}
+.div5 {
+    height: 200px;
+    width: 200px;
+    border: 2px  solid rgb(101, 125, 235);
+    background-color: rgb(59, 59, 192); 
+    position: absolute ;
+    margin-top: 100px;
+}
